@@ -1,0 +1,8 @@
+It is now Jan 04 2016 07:30:00
+The earliest allowable time is Fri Jan  1 00:00:00 2016
+This software expires at Fri Jun 15 01:00:00 2018
+----------
+Jan 04 2016 07:30:00: access granted! 
+The current time is: Feb 27 2019 15:52:54
+PASSED! You reset the time successfully!
+| dc1036 04094 completion code 0 |
